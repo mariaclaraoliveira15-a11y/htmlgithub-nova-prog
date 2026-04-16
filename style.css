@@ -2,8 +2,8 @@
     --branco-principal:#ffffff;
     --cinza-secundario:#C0C0C0;
     --botão-azul: #167BF7;
-    --cor-de-fundo:#000000;
-    
+    --cor-de-fundo:#CEFC99
+    ;
 
 }
 
@@ -18,12 +18,4 @@ principal{
 }
 container{
     height: 100vh;
-
-}
-.container_botao{
-    background-color: var(--botao-azul);
-    border-radius: 5px;
-    padding: 1em;
-    color: var(---branco-principal);
-    display: blok;
 }
