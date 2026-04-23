@@ -18,4 +18,20 @@ principal{
 }
 container{
     height: 100vh;
+    .container-botão{
+        background-color: var(--botão-azul);
+        border-radius: 5px;
+    }
 }
+.container-botão{
+
+}
+.botão_secundario{
+    background-color: transparent;
+    border: 2px solid var(--botão-principal)
+}
+.container{
+    height
+
+}
+
